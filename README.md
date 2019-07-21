@@ -7,3 +7,4 @@ detail:
 - The program calculate average of luminance per frame.
 - When 200 of frames were processed, the program is over.
 
+![lumiave](/Desktop/export.gif "graph drawing")
