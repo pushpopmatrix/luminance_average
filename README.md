@@ -1,5 +1,5 @@
 # luminance_average
-This is a python code which can show a glaph of luminance.
+This is a python code which can show a graph of luminance.
 
 detail:
 
@@ -7,4 +7,4 @@ detail:
 - The program calculate average of luminance per frame.
 - When 200 of frames were processed, the program is over.
 
-![lumiave](pushpopmatrix/luminance_average/graph.gif "graph drawing")
+![lumiave](pushpopmatrix/luminance_average/graph.gif)
